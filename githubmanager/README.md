@@ -17,6 +17,10 @@ I wanted to try this and learn how to use Graphql since it's new makes APIs supe
 So far I like it a lot and will be using it in the future.
 
 
+## Current Functions
+1. See github data
+
+
 ## To Just Use The Application (Windows Only Currently)
 
 1. Go to the following link and download the zip file.
@@ -31,7 +35,7 @@ https://drive.google.com/file/d/1woBIvmGJOTZy0upa4oYfw9nrIbgWINgQ/view?usp=shari
 3. Set up your Oauth app with GitHub, instructions here:
 https://docs.github.com/en/developers/apps/creating-an-oauth-app
 4. Go to lib/github_oauth_credentials_hidden.dart and add your IDs and change the file name to lib/github_oauth_credentials.dart
-5. Depending if you want to update the existing Graphql configuration, you may want to do the same as step 4 with lib/graphql/.graphqlconfig_hidden
+5. Depending if you want to update the existing Graphql configuration, you may want to do the same as step 4 with lib/graphql/template_graphqlconfig.txt => lib/graphql/.graphqlconfig
 6. Pick what you want to do
 
 This project is set up for Windows and MacOS but could be changed to run on Mobile(Android/iOS) or made into a Website
