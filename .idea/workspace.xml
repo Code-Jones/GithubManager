@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbec4477-315e-4008-9d39-32c5a4fde23c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../gist_maker\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="GraphQL File" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qtVTzLzYNXNQnjYBMplCTLQK89" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gist_maker" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\gist_desktop\gist_maker\windows\runner\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\gist_desktop\gist_maker\windows\runner\resources" />
+      <recent name="D:\Projects\gist_desktop\gist_maker\lib" />
+      <recent name="D:\Projects\gist_desktop\gist_maker\lib\graphql" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbec4477-315e-4008-9d39-32c5a4fde23c" name="Default Changelist" comment="" />
+      <created>1617898884197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617898884197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="452" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617932141411">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1010" y="452" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617932141411" />
+    <state x="1059" y="447" key="FileChooserDialogImpl" timestamp="1617990886912">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1059" y="447" key="FileChooserDialogImpl/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617990886912" />
+    <state width="1432" height="233" key="GridCell.Tab.0.bottom" timestamp="1617990887923">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1432" height="233" key="GridCell.Tab.0.bottom/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617990887923" />
+    <state width="1037" height="233" key="GridCell.Tab.0.bottom/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@2560.0.1080.1890" timestamp="1617989861929" />
+    <state width="1432" height="233" key="GridCell.Tab.0.center" timestamp="1617990887923">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1432" height="233" key="GridCell.Tab.0.center/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617990887923" />
+    <state width="1037" height="233" key="GridCell.Tab.0.center/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@2560.0.1080.1890" timestamp="1617989861929" />
+    <state width="1432" height="233" key="GridCell.Tab.0.left" timestamp="1617990887923">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1432" height="233" key="GridCell.Tab.0.left/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617990887923" />
+    <state width="1037" height="233" key="GridCell.Tab.0.left/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@2560.0.1080.1890" timestamp="1617989861928" />
+    <state width="1432" height="233" key="GridCell.Tab.0.right" timestamp="1617990887923">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1432" height="233" key="GridCell.Tab.0.right/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617990887923" />
+    <state width="1037" height="233" key="GridCell.Tab.0.right/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@2560.0.1080.1890" timestamp="1617989861929" />
+    <state x="1421" y="353" key="SettingsEditor" timestamp="1617990357740">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1421" y="353" key="SettingsEditor/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617990357740" />
+    <state x="936" y="333" key="run.anything.popup" timestamp="1617917500792">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="936" y="333" key="run.anything.popup/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617917500792" />
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1617949720279">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup/3640.0.1920.1050/0.0.2560.1410/2560.0.1080.1890@0.0.2560.1410" timestamp="1617949720279" />
+  </component>
+</project>

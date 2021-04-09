@@ -1,0 +1,32 @@
+name: githubmanager
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flex_color_scheme: any
+  cupertino_icons: ^1.0.2
+  http: ^0.13.1
+  fluttericon: ^2.0.0
+  graphql_flutter: ^5.0.0-nullsafety.2
+  oauth2: ^2.0.0
+  url_launcher: ^6.0.2
+  gql: ^0.13.0-0          # Add from here
+  gql_exec: ^0.3.0-0      #
+  gql_link: ^0.4.0-0      #
+  gql_http_link: ^0.4.0-0 # to here.
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: any
+  gql_build: any
+
+
+flutter:
+  uses-material-design: true
