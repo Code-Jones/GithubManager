@@ -16,9 +16,13 @@ It also allows you to request what you want rather than preformed calls. This ma
 I wanted to try this and learn how to use Graphql since it's new makes APIs super easy, and I like easy.
 So far I like it a lot and will be using it in the future.
 
+![GithubManger](https://github.com/Code-Jones/GithubManager/blob/master/readme_media/githubmanager%202021-04-09%2015-58-46.gif)
 
 ## Current Functions
-1. See github data
+1. Uses OAuth2 to connect to your personal github
+2. Shows your Repositories / Pull request / Assigned issues / Gists with links
+3. Uses a theme changer to change to light / dark / system color themes
+4. Add gist link for ease of use.
 
 
 ## To Just Use The Application (Windows Only Currently)
