@@ -24,7 +24,6 @@ class GithubLoginWidget extends StatefulWidget {
   @override
   _GithubLoginState createState() => _GithubLoginState();
 }
-
 typedef AuthenticatedBuilder = Widget Function(BuildContext context, oauth2.Client client);
 
 class _GithubLoginState extends State<GithubLoginWidget> {

@@ -6,18 +6,18 @@ targets:
       gql_build|req_builder:
         enabled: true
         options:
-          schema: gist_maker|lib/graphql/github-schema.graphql
+          schema: githubmanager|lib/graphql/github-schema.graphql
       gql_build|serializer_builder:
         enabled: true
         options:
-          schema: gist_maker|lib/graphql/github-schema.graphql
+          schema: githubmanager|lib/graphql/github-schema.graphql
       gql_build|schema_builder:
         enabled: true
       gql_build|data_builder:
         enabled: true
         options:
-          schema: gist_maker|lib/graphql/github-schema.graphql
+          schema: githubmanager|lib/graphql/github-schema.graphql
       gql_build|var_builder:
         enabled: true
         options:
-          schema: gist_maker|lib/graphql/github-schema.graphql
+          schema: githubmanager|lib/graphql/github-schema.graphql
