@@ -3,12 +3,14 @@
 This is a Github Manager for Windows Desktop made with Flutter 2.
 This Project uses the new Flutter 2 SDK and Graphql to connect to the Github Graphql API.
 Both of these were new topics for me so this was a learning experience.
+I wrote about how this project works on my website: 
+https://codejones.me/projects/github-manager/
 
 Flutter 2 just came out on March 3, 2021, so it's very new.
 There are a few notable changes such as being able to develop on more platforms such as Windows and MacOS.
 Flutter 2 is also now Null safe which can be frustrating at first but isn't hard to learn.
 There are a lot of changes, please check out my blog post if you'd like to read more.
-https://codejones.me/blog/
+https://codejones.me/blog/flutter-2-here-i-had-check-it-out/
 
 Graphql is a query and manipulation language for APIs.
 This uses a single endpoint to access all the data rather than traditional APIs that have many complex paths/urls.
